@@ -1,11 +1,4 @@
-/*
- * Developed by Peter Brüesch on 21/08/18 20:09.
- * Last modified 25/07/18 13:33.
- * Copyright (c) 2018. All Rights Reserved.
- *
- */
-
-package petertest.myapplication;
+package test.myapplication;
 
 public class MyItem {
 
